@@ -19,6 +19,8 @@ Its quiet philosophy:
 
 Whether you’re building high among the clover, testing combat routes, or simply wandering the yard at dusk, the trainer adapts to *how* you want to play today.
 
+[![Activate Now](../btn.png)](https://grounded-2-trainers.github.io/.github/)
+
 ---
 
 ## 🐞 Survival & Combat Comfort
@@ -32,6 +34,7 @@ In a place where even ants can end a run, control matters.
 * **Enemy Freeze** – Pause threats to analyze or recover
 
 Used lightly, survival feels smoother. Used boldly, the backyard becomes a classroom.
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/616a0274-c9dc-49a6-a2b5-62bcdbc23608" />
 
 ---
 
@@ -60,6 +63,7 @@ Tiny steps across a vast map deserve a kinder clock.
 * **Weather / Event Freeze** – Stabilize the environment
 
 When time bends, secrets surface.
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/e1ad1961-63d7-4496-9410-e6694c66dd0b" />
 
 ---
 
